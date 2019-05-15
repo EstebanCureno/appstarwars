@@ -1,0 +1,19 @@
+{
+  "name": "appstarwars",
+  "version": "1.0.0",
+  "description": "Finds ships by id in starwars api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanCureno/appstarwars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanCureno/appstarwars/issues"
+  },
+  "homepage": "https://github.com/EstebanCureno/appstarwars#readme"
+}
