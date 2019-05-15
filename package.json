@@ -18,5 +18,8 @@
   "homepage": "https://github.com/EstebanCureno/appstarwars#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "npm-start-command": "^1.0.0"
   }
 }
