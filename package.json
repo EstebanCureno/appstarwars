@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EstebanCureno/appstarwars/issues"
   },
-  "homepage": "https://github.com/EstebanCureno/appstarwars#readme"
+  "homepage": "https://github.com/EstebanCureno/appstarwars#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
